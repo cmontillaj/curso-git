@@ -7,3 +7,4 @@ vodka
 frescolita
 cocacola
 vino
+pepsicola
