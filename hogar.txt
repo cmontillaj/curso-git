@@ -3,3 +3,5 @@ papel de cocina
 papel aluminio
 detergente
 ropa
+lavadora
+secadora
